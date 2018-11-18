@@ -221,4 +221,4 @@ function play(guild, song) {
 }//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 //copyright code & ♯ 𝐑eBeL .#0001 ©
 
-client.login('NTEwNTU4NDUwMTQ1ODIwNzE5.DseGKQ.f9QnHSDp1LQ7IVD36O8w4jrRDug');
+client.login(process.env.BOT_TOKEN);
